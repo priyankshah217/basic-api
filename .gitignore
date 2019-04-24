@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.idea/
+SampleApp.go
+basicapi.go
+models/
+repository/
