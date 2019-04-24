@@ -7,7 +7,3 @@
 *.test
 *.out
 .idea/
-SampleApp.go
-basicapi.go
-models/
-repository/
